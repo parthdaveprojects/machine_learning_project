@@ -1,2 +1,1 @@
-# machine_learning_project
-Predictive Maintenance of Industrial Machinery
+# Machine Learning Project on Predictive Maintenance of Industrial Machinery
