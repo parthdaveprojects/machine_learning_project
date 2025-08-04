@@ -7,7 +7,7 @@ This was developed as a **Capstone Project**  by **Parth Bhagyesh Dave** using I
 
 ---
 
-## Outline
+## 📋 Outline
 - Problem Statement
 - Proposed Solution
 - System Developmen Approach
@@ -88,7 +88,7 @@ In response to unplanned equipment failures, our solution involves developing a 
     4. IBM Cloud Object Storage,
     5. IBM Watsonx.ai Runtime
 
-## Alogrithm & Deployment
+## 🤖 Alogrithm & 🚀 Deployment
 
 **Algorithm Selection**
 - IBM AutoAI automatically explored various machine learning pipelines. It shortlisted three high-performing algorithms:
@@ -117,7 +117,7 @@ In response to unplanned equipment failures, our solution involves developing a 
 - Model supports batch and real-time prediction through deployed API
 - Prediction confidence scores (probabilities) are also provided
 
-## Conclusion
+## 🎯 Conclusion
 
 - Successfully developed a predictive maintenance model using real-time sensor data to anticipate industrial machine failures.
 - Leveraged IBM AutoAI for automated data preprocessing, algorithm selection, and model optimization.
@@ -125,7 +125,7 @@ In response to unplanned equipment failures, our solution involves developing a 
 - The system enables proactive maintenance, minimizing downtime, reducing operational costs, and improving machine reliability.
 - Deployed model is accessible through multiple platforms (Python, Java, JavaScript, cURL), ensuring easy integration into existing systems.
 
-## Future Scope
+## 🔭 Future Scope
 
 - **Integration of More Sensor Types:** Extend the current dataset by integrating additional machine sensors (e.g., vibration, acoustic, or thermal imaging) for richer insights and improved failure prediction.
 - **Model Generalization:** Adapt the trained model to work across different types of industrial machines and environments to ensure scalability and robustness.
@@ -134,7 +134,7 @@ In response to unplanned equipment failures, our solution involves developing a 
 - **Cost-Aware Maintenance Scheduling:** Enhance the system to not only predict failures but also recommend cost-optimized maintenance schedules based on operational hours and failure severity.
 - **Wider Platform Integration:** Expand model usability by integrating with industrial platforms like PLCs, SCADA systems, or cloud-based monitoring dashboards for seamless operations.
 
-## References
+## 🔗 References
 
 - Dataset:
 -     https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification
