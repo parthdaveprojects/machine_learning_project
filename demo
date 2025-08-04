@@ -1,0 +1,70 @@
+# Predictive Maintenance for Industrial Machines
+
+## 📌 Project Overview
+This project focuses on building a **predictive maintenance system** using machine learning techniques to prevent unexpected industrial machine failures. The system predicts different types of machine failures in advance, enabling proactive maintenance, reducing downtime, and lowering operational costs.
+
+This was developed as a **Capstone Project** at **Swarrnim Startup and Innovation University** by **Parth Bhagyesh Dave** using IBM Watsonx AutoAI and IBM Cloud.
+
+---
+
+## 🚨 Problem Statement
+Industrial machinery failures often lead to unplanned downtimes and high maintenance costs. The aim of this project is to:
+
+- Detect patterns in sensor data that indicate impending failures.
+- Build a **multi-class classification model** to predict failure types:
+  - Tool wear failure
+  - Heat dissipation failure
+  - Power failure
+  - Random failure
+  - Overstrain failure
+
+---
+
+## ✅ Proposed Solution
+A predictive model is built using IBM Watson AutoAI on sensor data to classify the type of failure. Key steps include:
+
+- **Data Collection & Preprocessing**
+  - Real-time sensor data: air temperature, torque, speed, tool wear, etc.
+  - Dropped non-informative columns (e.g., UDI)
+  - Automated preprocessing via AutoAI: encoding, scaling, splitting
+
+- **Model Selection & Training**
+  - IBM AutoAI selected and evaluated multiple models
+  - Top 3 models:
+    - Snap Random Forest Classifier (99.5% accuracy)
+    - Random Forest Classifier
+    - Snap Decision Tree Classifier
+
+- **Deployment**
+  - Deployed as a REST API using IBM Cloud
+  - Accessible from Python, Java, JS, cURL, Scala
+
+---
+
+## 🧠 Tech Stack
+- **Platform**: IBM Watsonx.ai, AutoAI, IBM Cloud Object Storage
+- **Languages**: Python (main), JavaScript, Java
+- **Libraries**:
+  - `requests` (for REST API)
+  - Jupyter Notebook
+- **Tools**:
+  - IBM Cloud AutoAI
+  - IBM Watsonx.ai Runtime
+
+## 📊 Results
+- Snap Random Forest Classifier delivered **99.5% accuracy**
+- Evaluation metrics:
+  - Confusion matrix
+  - Class-wise precision
+  - Inference time
+- Exploratory data analysis included:
+  - Correlation Heatmaps
+  - Box and Pair Plots
+  - Class Distribution
+
+
+### 🔧 Prerequisites
+- Python 3.x
+- Jupyter Notebook
+- IBM Cloud Account
+
