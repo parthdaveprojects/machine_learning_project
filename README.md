@@ -137,18 +137,14 @@ In response to unplanned equipment failures, our solution involves developing a 
 ## References
 
 - Dataset:
-    https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification
+-     https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification
 - IBM Cloud Dashboard:
-    https://cloud.ibm.com/login
+-     https://cloud.ibm.com/login
 - IBM watsonx.ai Studio:
-    https://cloud.ibm.com/services/data-science-experience/crn%3Av1%3Abluemix%3Apublic%3Adata-science-experience%3Aau-syd%3Aa%2Faab9312cccf3498ca3d3f656bf4e348d%3A04329999-f229-40fd-9edb-b53031652aa5%3A%3A?paneId=manage
+-     https://cloud.ibm.com/services/data-science-experience/crn%3Av1%3Abluemix%3Apublic%3Adata-science-experience%3Aau-syd%3Aa%2Faab9312cccf3498ca3d3f656bf4e348d%3A04329999-f229-40fd-9edb-b53031652aa5%3A%3A?paneId=manage
 - Watson Studio learning path:
-    https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/quickstart-tutorials.html?context=wx
+-     https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/quickstart-tutorials.html?context=wx
 - Documentation for Cloud Pak for Data as a Service:
-    https://au-syd.dai.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=cpdaas&audience=wdp
+-     https://au-syd.dai.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=cpdaas&audience=wdp
 - Documentation for IBM watsonx as a Service:
-    https://au-syd.dai.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=wx&audience=wdp
-
-
-## Technology :
-Use of IBM cloud lite services.
+-     https://au-syd.dai.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=wx&audience=wdp
