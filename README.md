@@ -95,7 +95,7 @@ In response to unplanned equipment failures, our solution involves developing a 
     1. Snap Random Forest Classifier (Best Performer)
     2. Random Forest Classifier
     3. Snap Decision Tree Classifier
-  - Snap Random Forest was chosen due to its high accuracy (99.5%) and ability to handle complex classification tasks effectively.
+- Snap Random Forest was chosen due to its high accuracy (99.5%) and ability to handle complex classification tasks effectively.
 
  **Data Input:**
 - The model utilized features such as:
